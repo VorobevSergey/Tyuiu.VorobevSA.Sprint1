@@ -10,13 +10,11 @@ namespace Pomoyka
     {
         static void Main(string[] args)
         {
-            int a = 10;
-
-            int b = 7;
-
-            int c = a + b;
-
-            Console.WriteLine(a + "+" + b + "=" + c);
+            int a = 6, b = 4;
+            int x = 30 / 6 + 4;
+            a++;
+            x += b += a;
+            Console.WriteLine(x);
             Console.ReadKey();
         }
     }
