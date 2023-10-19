@@ -11,8 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VorobevSA.Sprint1.Tas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VorobevSA.Sprint1.Task0.V25.test", "Tyuiu.VorobevSA.Sprint1.Task0.V25.test\Tyuiu.VorobevSA.Sprint1.Task0.V25.test.csproj", "{310215C6-1CEB-4FD7-BBF0-F7A879C9F351}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pomoyka", "Pomoyka\Pomoyka.csproj", "{B78662C2-B2C6-40C4-91CB-F661BE691163}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{0C7D0D6A-D64C-407E-A8B8-CEA58BD90F25}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VorobevSA.Sрrint1.Task1.V27", "Tyuiu.VorobevSA.Sрrint1.Task1.V27\Tyuiu.VorobevSA.Sрrint1.Task1.V27.csproj", "{F58365E3-A674-462A-8436-3227C10062DC}"
@@ -87,10 +85,6 @@ Global
 		{310215C6-1CEB-4FD7-BBF0-F7A879C9F351}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{310215C6-1CEB-4FD7-BBF0-F7A879C9F351}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{310215C6-1CEB-4FD7-BBF0-F7A879C9F351}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B78662C2-B2C6-40C4-91CB-F661BE691163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B78662C2-B2C6-40C4-91CB-F661BE691163}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B78662C2-B2C6-40C4-91CB-F661BE691163}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B78662C2-B2C6-40C4-91CB-F661BE691163}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F58365E3-A674-462A-8436-3227C10062DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F58365E3-A674-462A-8436-3227C10062DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F58365E3-A674-462A-8436-3227C10062DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
